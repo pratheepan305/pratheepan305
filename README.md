@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pratheepan305
 - 👀 I’m interested in ...sql,python,azure
-- 🌱 I’m currently learning ..data engineering
-- 💞️ I’m working at Tech Mahindra
+- 🌱 I’m currently learning ..Ui/Ux design
+- 💞worked in a SQL  project support 
 - 📫 How to reach me ...pratheepan30599@gmail.com
 
 <!---
