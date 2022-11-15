@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pratheepan305
-- 👀 I’m interested in ...sql,python,azure
+- 👀 I’m interested in ...sql,Design UI
 - 🌱 I’m currently learning ..Ui/Ux design
 - 💞worked in a SQL  project support 
 - 📫 How to reach me ...pratheepan30599@gmail.com
